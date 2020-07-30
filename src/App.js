@@ -13,9 +13,9 @@ class App extends Component {
       "Sehat selalu, kurang2in bucin wkwkkw",
       "Sayang orang tua, sayang semuanya",
     ], //edit untuk kata2
-    panggilan: ["Kawan", "Teman", "Kwab", "Ay"], //edit untuk panggilan
+    panggilan: ["Kawan", "Teman", "Lek", "Lekk"], //edit untuk panggilan
     tanggal_lahir: "30/12/2001", //untuk edit tanggal lahir doi kau
-    nama: "Ay♥21", //edit untuk nama di ballon, maksimal 5 kata aja xixixi
+    nama: "Merr", //edit untuk nama di ballon, maksimal 5 kata aja xixixi
     warna: [
       "#FF6900",
       "#FCB900",
